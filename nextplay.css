@@ -1,0 +1,99 @@
+.header{
+    background-color: black;
+    height: 7rem;
+}
+.background1{
+    background-image: url(image/6.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:35rem;
+}
+.overlay1{
+    background-color: rgba(0, 0, 0, .5);
+    height:35rem;
+    opacity: 0.9;
+}
+
+.yellowbackground{
+    background-color: rgba(235, 227, 115, 0.767);
+    height:24rem;
+}
+
+.background2{
+    background-image: url(image/5.jpg);
+    background-attachment: fixed;
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:25rem;
+}
+.overlay2{
+    background-color: rgba(0, 0, 0, .5);
+    height:25rem;
+}
+.bluebox{
+    background-color: royalblue; 
+    border-radius: 1rem;
+    min-height: 30rem;
+    position: absolute;
+    top: 10rem;
+}
+.background3{
+    background-image: url(image/9.jpg);
+    background-attachment: fixed;
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:25rem;
+}
+.overlay3{
+    background-color: rgba(0, 0, 0, .5);
+    height:25rem;
+}
+.whitebackground{
+    background-color: white;
+    height: 40rem;
+}
+.background4{
+    background-image: url(image/9.jpg);
+    background-attachment: fixed;
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:25rem;
+}
+.overlay4{
+    background-color: rgba(0, 0, 0, .5);
+    height:25rem;
+}
+.footer{
+    background-color: black;
+    min-height: 15rem;
+}
+
+.facebook{
+    background-color:blue; 
+    height: 7rem;
+    width: 8rem;
+    border-radius: 0.7rem;
+   
+}
+.twitter{
+    background-color:skyblue; 
+    height: 7rem;
+    width: 8rem;
+    border-radius: 0.7rem;
+   
+}
+.instagram {
+    background-color:rgb(238, 46, 104); 
+    height: 7rem;
+    width: 8rem;
+    border-radius: 0.7rem;
+    
+}
+.linkedin {
+    background-color:rgb(75, 117, 243); 
+    height: 7rem;
+    width: 8rem;
+    border-radius: 0.7rem;
+  
+}
