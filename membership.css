@@ -1,0 +1,91 @@
+.header{
+    background-image: url(image/6.jpg);
+    background-size: cover;
+    height: 19rem;
+}
+.headerbox{
+    background-color:black;
+    height: 25rem;
+    width: 35rem;
+    border-radius: 0.5rem;
+    position: relative;
+    bottom:13rem;
+    left: 27rem;
+  
+}
+.logo{
+    width: 6rem;
+    position: absolute;
+    top: 5rem;
+    left: 5rem;
+}
+.zoom{
+    color: white;
+    font-family:'Ma Shan Zheng', cursive; 
+    font-weight: bolder;
+    font-size: 3rem;
+    position: relative;
+    top: 11rem;
+    left: 2rem;
+}
+.membership{
+    color: white;
+    position: relative;
+    top: 10rem;
+}
+.request{
+    font-weight: bolder;
+    font-size: 1.8rem;
+    margin-left: 2rem;
+}
+.para1{
+    margin: 0rem 2rem;
+} 
+input{
+    width: 30rem;
+    outline: none;
+    
+}  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen 
+    and (min-device-width : 320px) 
+    and (max-device-width : 480px) {
+        body{background-color: firebrick;}
+        .headerbox{
+            position: relative;
+            bottom:10rem;
+            left: 14rem;
+
+        }
+
+    }
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+    body{background-color: orange;}
+    .headerbox{
+        position: relative;
+        bottom:13rem;
+        left: 14rem;
+    }
+
+}
